@@ -1,2 +1,2 @@
 # daur-amstr
-daur amstr
+Daurrr
